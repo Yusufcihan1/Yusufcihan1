@@ -15,7 +15,7 @@
 <a href="https://discord.gg/3wDQ8nUZ" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
 </p>
 
-<img align="right" src="https://c.tenor.com/4gPD1ccxrVgAAAAC/rick-ashley-dance.gif" width="280" height="230"  />
+
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
