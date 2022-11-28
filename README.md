@@ -8,6 +8,8 @@
 
 - 📫  How to reach me **yuseymen16@gmail.com**
 
+- I am a graduate of Electrical and Electronics Engineering. I am doing a master's degree in Artificial Intelligence.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yusufcihan/" target="blank" rel=”noopener”><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1398126453/adu2g57bgen4u9lb1kb1.png" alt="yusufcihan" height="30" width="30" /></a>
