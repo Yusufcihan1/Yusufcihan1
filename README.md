@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yusufcihan/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="yusufcihan" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yusufcihan/" target="blank" rel=”noopener”><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1398126453/adu2g57bgen4u9lb1kb1.png" alt="yusufcihan" height="30" width="30" /></a>
 <a href="https://www.instagram.com/yyusufchn/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="yyusufchn" height="30" width="30" /></a>
 <a href="https://discord.gg/3wDQ8nUZ" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
 </p>
