@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
-<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200" height="140"  />
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
 - 👾  I’m currently working with **Web3.**
