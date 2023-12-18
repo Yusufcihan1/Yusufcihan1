@@ -3,7 +3,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
-- 👾  I’m currently working with **Artifical Intelligence and**/**Web3.**
+- 👾  I’m currently working with **Artifical Intelligence ** and **Web3.**
 
 - 💬  Ask me about **Web3, Solana Blokchain,Tokens,NFT**
 
