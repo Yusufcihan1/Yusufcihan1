@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
 
-![]( ![advanced-ai-anatomy-artificial](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/0e9cf9d6-2c02-4d17-9a4b-30224928206a)
-)
+![advanced-ai-anatomy-artificial](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/0e9cf9d6-2c02-4d17-9a4b-30224928206a)
+
 
 
 - 👾  I’m currently working with **Artifical Intelligence** and **Web3.**
