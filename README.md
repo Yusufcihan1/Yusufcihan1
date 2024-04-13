@@ -1,12 +1,13 @@
 <h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
 
-![advanced-ai-anatomy-artificial](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/0e9cf9d6-2c02-4d17-9a4b-30224928206a)
+
+![wallpapersden com_react-4k_8000x3375](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/53974f20-55b7-474a-af1d-aa2734f4327c)
 
 
 
-- 👾  I’m currently working with **Artifical Intelligence** and **Web3.**
+- 👾  I’m currently working with **Frontend Development** and **Web3.**
 
-- 💬  Ask me about **Web3, Solana Blokchain,AI and Image Processing**
+- 💬  Ask me about **HTML,Css,Javascript and React**
 
 - 📫  How to reach me **yuseymen16@gmail.com**
 
@@ -14,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yusufcihan/" target="blank" rel=”noopener”><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1398126453/adu2g57bgen4u9lb1kb1.png" alt="yusufcihan" height="30" width="30" /></a>
-<a href="https://www.instagram.com/yyusufchn/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="yyusufchn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yusufcihan/" target="blank" rel=”noopener”><img align="center" src="[https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1398126453/adu2g57bgen4u9lb1kb1.png](https://camo.githubusercontent.com/66ddc0c3999080e866e531e40a816db84150a1d75788a686102b0e66c8b4ecfb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667)" alt="yusufcihan" height="30" width="30" /></a>
 <a href="https://discord.gg/3wDQ8nUZ" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
 </p>
 
