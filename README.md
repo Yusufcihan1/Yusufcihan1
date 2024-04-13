@@ -7,7 +7,7 @@
 
 - 👾  I’m currently working with **Frontend Development** and **Web3.**
 
-- 💬  Ask me about **HTML,Css,Javascript and React**
+- 💬  Ask me about **HTML,CSS,Javascript and React**
 
 - 📫  How to reach me **yuseymen16@gmail.com**
 
