@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yusufcihan/" target="blank" rel=”noopener”><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
-<a href="https://discord.gg/3wDQ8nUZ" target="blank" rel=”noopener”><img align="center" src="[https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg)" /></a>
+<a href="https://discord.gg/3wDQ8nUZ" target="blank" rel=”noopener”><img align="center" src="![discord-mark-blue](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/6760212c-0b8c-46c3-b914-db43a80de61a)" /></a>
 </p>
 
 
