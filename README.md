@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
+![solanaLogoMark 17260911](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/c8e912c2-beac-46a6-b910-2d2d464f8ebe)<h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
 
 
 ![wallpapersden com_react-4k_8000x3375](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/53974f20-55b7-474a-af1d-aa2734f4327c)
@@ -12,6 +12,8 @@
 - 📫  How to reach me **yuseymen16@gmail.com**
 
 - I am a graduate of Electrical and Electronics Engineering. I am doing a master's degree in Artificial Intelligence.
+- ![image](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/5e373e5e-8950-4e47-add8-cdea2018e9e0) Member Of SuperTeam Turkey
+
 
 ## Connect with me:
 
