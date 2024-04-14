@@ -1,4 +1,4 @@
-![solanaLogoMark 17260911](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/c8e912c2-beac-46a6-b910-2d2d464f8ebe)<h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
+<h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
 
 
 ![wallpapersden com_react-4k_8000x3375](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/53974f20-55b7-474a-af1d-aa2734f4327c)
