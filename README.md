@@ -1,7 +1,8 @@
 <h2 align="center">Hello there! 🚀 I'm Yusuf</h2>
 
 
-![wallpapersden com_react-4k_8000x3375](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/53974f20-55b7-474a-af1d-aa2734f4327c)
+![js](https://github.com/Yusufcihan1/Yusufcihan1/assets/50721899/4d9e8b82-936a-4cdf-904e-0a08c422d610)
+
 
 
 
